@@ -1,0 +1,36 @@
+tr/gte/TM-0014-06-88-165:::Frank Manola:::Distributed Object Management Technology.
+tr/ibm/IWBS94:::Christoph Beierle::Udo Pletat:::The Algebra of Feature Graph Specifications
+tr/ibm/LILOG12:::Ipke Wachsmuth:::On Structuring Domain-Specific Knowledge
+tr/ibm/LILOG17:::Christopher Habel:::Prozedurale Aspekte der Wegplanung und Wegbeschreibung
+tr/ibm/LILOG20:::Klaus Rehkämper:::Mentale Bilder und Wegbedeutungen
+tr/ibm/LILOG32:::Jean-Yves Lerner::Ulrich Schatz:::Die Sloppy/Referenzielle Ambiguität: Bildungssyntax oder Diskursrepräsentationstheorie?
+tr/ibm/LILOG47:::Simone Pribbenow:::Verträglichkeitsprüfungen für die Verarbeitung räumlichen Wissens
+tr/ibm/LILOG1a:::Otthein Herzog::Claus-Rainer Rollinger::Peter H. Schmitt::Petra Steffens::Rudi Studer::Birgit Wesche::Brigitte Bartsch-Spörl::F. Günthner::Christopher Habel::Siegfried Kanngießer::Christian Rohrer:::LILOG - Linguistische und logische Methoden für das maschinelle Verstehen des Deutschen - Projektbeschreibung
+tr/ibm/LILOG59:::Thomas Ludwig:::Algebraical Optimization of FTA-Expressions
+tr/ibm/LILOGM2:::Brigitte Bartsch-Spörl:::Zur Systemarchitektur von LILOG
+tr/ibm/LILOGM4:::Brigitte Bartsch-Spörl:::Zur Behandlung komplexer Objekte in LILOG
+tr/ibm/RJ1579:::Jim Gray::Vera Watson:::A Shared Segment and Interprocess Communication Facility for VM/370
+tr/ibm/RJ2555:::Irving L. Traiger::Jim Gray::Cesare A. Galtieli::Bruce G. Lindsay:::Transactions and Consistency in Distributed Database Systems.
+tr/ibm/IWBS110:::Karl Dotzek:::Strategien zur Pronominalisierung
+tr/ibm/IWBS113:::Christoph Beierle::Ulrich Hedtstück::Udo Pletat::Peter H. Schmitt::Jörg H. Siekmann:::An Order-Sorted Logic for Knowledge Representation Systems
+tr/ibm/IWBS115:::Egon Börger:::A Logical Operational Semantics of Full Prolog Part II: Built-in Predicates for Database Manipulations
+tr/ibm/IWBS126:::Otthein Herzog:::The Institute for Knowledge Based Systems in the IBM Germany Scientific Center
+tr/ibm/IWBS132:::Stefan Böttcher:::An Inference Engine for Function Free Logic Programs
+tr/ibm/IWBS176:::Ralph Scheubrein:::Integration eines deduktiven Datenbanksystems in eine Logikprogrammiersprache
+tr/ibm/IWBS201:::Thomas Ludwig::Stefan Benzschawel::Erich Gehlen:::Differential Closure Computation for General Horn-Clause Queries
+tr/ibm/IWBS204:::Karl Schlechta:::Results on Non-Monotonic Logics.
+tr/ibm/IWBS208:::Bernhard Beckert:::Konzeption und Implementierung von Gleichheit für einen tableau-basierten Theorem-Beweiser
+tr/ibm/IWBS221:::Ulrike Rackow:::On the Treatment of Compounds in Machine Translation. A Study
+tr/ibm/IWBS223:::Peter Gerstl:::Mengenkonzepte in Unifikationsgrammatiken
+tr/ibm/IWBS225:::Ulrike Rackow::Ido Dagan::Ulrike Schwall:::A Combined Symbolic-Empirical Apprach for the Automatic Translation of Compounds
+tr/ibm/IWBS237:::Birgit Wendholt:::DInG - ein Domänen-orientierter Inkrementeller und Integrierter Generator für kohärente Texte
+tr/trier/MI00-11:::Lothar Breuer:::Operator-Geometric Solutions for the M/G/k Queue and its Variants
+tr/trier/MI00-12:::Christopher Lusena::Judy Goldsmith::Martin Mundhenk:::Nonapproximability Results for Partially Observable Markov Decision Processes
+tr/trier/MI01-09:::Christoph Meinel::Harald Sack::Arno Wagner:::WWW.BDD-PORTAL.ORG: An Experimentation Platform for Binary Decision Diagram Algorithms
+tr/trier/MI02-19:::Lothar Breuer:::Approximating Semi-Markov Processes by MAPs, with an Application on Queueing Theory
+tr/trier/MI02-21:::Christoph Meinel::Volker Schillings:::tele-TASK - Teleteaching Anywhere Solution Kit
+tr/trier/MI92-01:::Carsten Damm::Matthias Krause::Christoph Meinel::Stephan Waack:::Separating Counting Communication Complexity Classes
+tr/trier/MI92-15:::Klaus Jansen:::On the Complexity of a Licence Constrained Job Assignment Problem
+tr/trier/MI92-24:::Matthias Heinkenschloss:::Numerical Solution of a Semilinear Parabolic Control Problem
+tr/trier/MI93-02:::Dirk Frosch-Wilke:::Exact Analysis of Closed Synchronized Systems of Stochastic Sequential Processes
+tr/trier/MI93-09:::Anna Slobodová::Christoph Meinel:::Efficient Manipulation of FBDDs by Means of a Modified OBDD-Package
